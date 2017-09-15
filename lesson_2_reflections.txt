@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+since i just added a new file in my repository, i think i need to commit the change .
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+files in working directory are in the status of untracked, whereas commited files are tracked by git, supplying all histories.
