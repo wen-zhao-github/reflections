@@ -1,0 +1,34 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+It is fairly normal that developers make mistakes when code.
+Small erros like typo, forgot delimiters, etc, are very easy to 
+fix, but really tedious to find out the erros themselves.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Examples like doing a final essay which might contain up to 500 pages
+and need to be worked on during long term like 6 months. Sometimes, 
+We have inspirations and we change the current work, howevever, it turned out that its a bad inspiration and we need to reverse back the previous one.
+
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Choosing when to commit is a judgment call, and it's not always cut-and-dried. When choosing whether to commit, just keep in mind that each commit should have one clear, logical purpose, and you should never do too much work without committing.
+It takes time to get used to the habit that we need to make commits once we have a clear logic feature created or fixed. 
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Project normally takes multi files to work, however, files like google docs can be totally independent.
+
+
+How can you use the commands git log and git diff to view the history of files?
+git log: to list all existing commits
+q: to quit current git log command
+git diff: to compare two commits
+git diff --stat: to calculate the lines changed between two commints
+
+How might using version control make you more confident to make changes that could break something?
+
+I am always afraid that some new feature using new functions i m not familiar with will break the entre apps so i hard copy my android projects all the time which is every space and time consuming also when problems do happen it is not easy to find by looking throug the files and try to locate the bug. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Go back to my android projects and move forward make changes that i could not dare to make. 
