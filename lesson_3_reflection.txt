@@ -1,3 +1,14 @@
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 I like take control of my local repository 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks
+1. make a clone to my repository list
+2. link to the original contributer
+
+clones
+1. make a clone to my local pc
+
+branches
+1. ensable us to experiment without worrying about breaking down the master all the time
